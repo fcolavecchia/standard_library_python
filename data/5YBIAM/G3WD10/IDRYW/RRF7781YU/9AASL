@@ -1401,6 +1401,7 @@
    ]
   },
   {
+   "attachments": {},
    "cell_type": "markdown",
    "metadata": {
     "ein.tags": "worksheet-0",
@@ -1409,7 +1410,9 @@
     }
    },
    "source": [
-    "Si va a utilizar expresiones regulares es recomendable que lea más información en la [biblioteca standard](https://docs.python.org/3.6/library/re.html), en [el HOWTO](https://docs.python.org/3.6/howto/regex.html) y en [Python Module of the week](https://pymotw.com/3/re/index.html). "
+    "Si va a utilizar expresiones regulares es recomendable que lea más información en la [biblioteca standard](https://docs.python.org/3.6/library/re.html), en [el HOWTO](https://docs.python.org/3.6/howto/regex.html) y en [Python Module of the week](https://pymotw.com/3/re/index.html). \n",
+    "\n",
+    "Para practicar RegEx, [ésta es una buena página](https://regexone.com/)."
    ]
   }
  ],
